@@ -1,4 +1,4 @@
 # Lab 7 - Starter
 
-Name: Arlene Garcia
-Name: Phyo Thant
+- Name: Arlene Garcia
+- Name: Phyo Thant
