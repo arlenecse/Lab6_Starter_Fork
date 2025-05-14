@@ -1,4 +1,4 @@
-# Lab 7 - Starter
+# Lab 6 - Starter
 
 - Name: Arlene Garcia
 - Name: Phyo Thant
